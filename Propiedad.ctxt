@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Propiedad
+comment1.params=
+comment1.target=Propiedad()
+comment10.params=habitantes
+comment10.target=void\ setHabitantes(java.lang.Integer)
+comment2.params=nombre\ propietario\ area\ habitantes
+comment2.target=Propiedad(java.lang.String,\ java.lang.String,\ java.lang.Double,\ java.lang.Integer)
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=
+comment4.target=java.lang.String\ getPropietario()
+comment5.params=
+comment5.target=java.lang.Double\ getArea()
+comment6.params=
+comment6.target=java.lang.Integer\ getHabitantes()
+comment7.params=nombre
+comment7.target=void\ setNombre(java.lang.String)
+comment8.params=Propietario
+comment8.target=void\ setPropietario(java.lang.String)
+comment9.params=Area
+comment9.target=void\ setArea(java.lang.Double)
+numComments=11
